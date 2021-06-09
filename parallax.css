@@ -30,7 +30,7 @@ section
     color: #0056a7;
     height: 100vh;
 }
-section h4{
+section h6{
     animation: bounceIn 5s ease-in-out;
     font-size:2rem;
 }
