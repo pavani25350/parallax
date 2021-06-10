@@ -31,8 +31,11 @@ section
     height: 100vh;
 }
 section h6{
-    animation: bounceIn 5s ease-in-out;
     font-size:2rem;
+}
+.animate-me
+{
+    animation: bounceIn 5s ease-in-out;
 }
 @keyframes fadein{
     from
