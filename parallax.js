@@ -6,6 +6,6 @@
        ".container"
      ).style.transform = `translateY(${distance * 0.3}px)`;
      setTimeout(() => {
-       document.querySelector("section h3").classList.add("animate-me");
+       document.querySelector("section h6").classList.add("animate-me");
      }, 400);
    });
